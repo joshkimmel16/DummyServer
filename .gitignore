@@ -1,0 +1,10 @@
+.DS_Store
+.vscode
+build
+build_*
+mirror
+temp
+*.log
+node_modules
+config.json
+files
